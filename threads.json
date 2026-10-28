@@ -362,6 +362,186 @@
    "date": "2026-12-28",
    "topic": "Backup withholding",
    "text": "If your business gets a CP2100, the IRS is telling you which payees may need a B notice. Backup withholding is 24%, reported on Form 945. If you were required to withhold and did not, the business can owe the amount."
+  },
+  {
+   "seq": 61,
+   "date": "2027-01-04",
+   "topic": "Jan 15 estimated payment",
+   "text": "Friday, January 15, 2027 is the last estimated tax payment for 2026. The four dates are April 15, June 15, September 15 and January 15. To be safe, pay the lesser of 90% of this year's tax or 100% of last year's. Pull your 2025 return today and find that second number."
+  },
+  {
+   "seq": 62,
+   "date": "2027-01-07",
+   "topic": "110 percent rule",
+   "text": "If your 2025 adjusted gross income was over $150,000, the prior-year safe harbor for your January 15 estimated payment is 110% of last year's tax, not 100%. For married filing separately the line is $75,000. Find the AGI on your 2025 return before you pay."
+  },
+  {
+   "seq": 63,
+   "date": "2027-01-11",
+   "topic": "Skip Q4 by filing early",
+   "text": "You can avoid the penalty on the January 15 estimated payment by filing your 2026 return and paying the full balance by January 31. That only works with a finished return, so gather every W-2, 1099 and K-1 first. If one is missing, make the January 15 payment instead."
+  },
+  {
+   "seq": 64,
+   "date": "2027-01-14",
+   "topic": "Under $1,000",
+   "text": "No estimated tax penalty applies if you owe less than $1,000 after withholding. Before you worry about a missed quarter, subtract your 2026 withholding from your total tax. If the balance is under $1,000, the penalty does not apply to you."
+  },
+  {
+   "seq": 65,
+   "date": "2027-01-18",
+   "topic": "Uneven income",
+   "text": "Sold a business or took a big bonus late in 2026? The annualized income method can lower an estimated tax installment you would otherwise owe a penalty on. It bases each installment on income earned so far. Ask your preparer to run it before you pay a penalty."
+  },
+  {
+   "seq": 66,
+   "date": "2027-01-21",
+   "topic": "Farmers and fishermen",
+   "text": "Farmers and fishermen get one estimated payment, due January 15. They can avoid the penalty by filing and paying by March 1. To qualify, at least two-thirds of gross income must come from farming or fishing, this year or last. Check your percentage before you file."
+  },
+  {
+   "seq": 67,
+   "date": "2027-01-25",
+   "topic": "IP PIN basics",
+   "text": "Get an IP PIN before you file. It is a six-digit code that changes every year, and anyone with a Social Security number or ITIN can opt in through an IRS online account. Spouses each need their own. Once you have one, an e-filed return with a missing or wrong PIN is rejected."
+  },
+  {
+   "seq": 68,
+   "date": "2027-01-28",
+   "topic": "Preparer must sign",
+   "text": "A paid preparer has to sign the return they prepare and include an identifying number, called a PTIN. If someone fills out your return and tells you to file it yourself, ask why. Before you hand over documents, ask who will sign and confirm a PTIN will be on the return."
+  },
+  {
+   "seq": 69,
+   "date": "2027-02-01",
+   "topic": "Read before you sign",
+   "text": "A paid preparer must give you a completed copy of your return no later than when you are asked to sign. Read it. You sign under penalties of perjury, so check the names, Social Security numbers, income and the bank account for your refund before you say yes."
+  },
+  {
+   "seq": 70,
+   "date": "2027-02-04",
+   "topic": "Refund check",
+   "text": "A preparer of your return cannot endorse or cash your refund check, and the law penalizes each one. The exception is depositing it in an account in your name. Before you file, look at the routing and account numbers on the return and make sure they are yours."
+  },
+  {
+   "seq": 71,
+   "date": "2027-02-08",
+   "topic": "W-2 and K statements date",
+   "text": "Your W-2 is due to you by January 31. In 2027 that is a Sunday, so the deadline moves to Monday, February 1. Do not file until you have every form. Make a list now of every employer, bank, brokerage and payment app that paid you, then check each one off as it arrives."
+  },
+  {
+   "seq": 72,
+   "date": "2027-02-11",
+   "topic": "New W-2 items",
+   "text": "W-2s now have separate items for cash tips you reported, with your occupation, and for qualified overtime compensation. If you plan to claim a deduction tied to either, compare the W-2 to your final pay stub before you file. A mismatch is easier to fix in January than in April."
+  },
+  {
+   "seq": 73,
+   "date": "2027-02-15",
+   "topic": "1099-K threshold",
+   "text": "A payment app or online marketplace only has to send you a 1099-K if you received more than $20,000 and had more than 200 transactions. That threshold controls the form, not the tax. Side income is taxable whether or not a form arrives. Keep your own record of every deposit."
+  },
+  {
+   "seq": 74,
+   "date": "2027-02-18",
+   "topic": "1099-DA",
+   "text": "Crypto brokers report sales on Form 1099-DA. Gross proceeds are reported for sales on or after January 1, 2025. Cost basis is generally reported only for assets acquired in a custodial account on or after January 1, 2026, so older coins may show no basis. Pull your own purchase history before you file."
+  },
+  {
+   "seq": 75,
+   "date": "2027-02-22",
+   "topic": "Wage and income transcript",
+   "text": "Your IRS online account can show a wage and income transcript, listing the W-2s and 1099s the IRS received for you. Before you file, compare it to your own stack. A form that has not posted yet will not appear, so keep your own list too. A mismatch you catch now is not a CP2000 later."
+  },
+  {
+   "seq": 76,
+   "date": "2027-02-25",
+   "topic": "Feb 15 refund rule",
+   "text": "By law, the IRS cannot issue a refund before February 15 if your return claims the Earned Income Credit or the refundable child tax credit. That holds the whole refund, even if you file in January. File accurately, then plan your bills around mid-February."
+  },
+  {
+   "seq": 77,
+   "date": "2027-03-01",
+   "topic": "Refund offsets",
+   "text": "A refund can be reduced for other federal tax you owe, past-due child support, federal agency debts, state income tax or certain state unemployment debts. The IRS has to tell you when it happens. A dispute over the debt itself goes to the agency that got the money, not the IRS."
+  },
+  {
+   "seq": 78,
+   "date": "2027-03-04",
+   "topic": "March 15 pass-through",
+   "text": "Partnership and S corporation returns for 2026 are due Monday, March 15, 2027, a month before your personal return. Owners often need the K-1s to finish their own returns, so late entity returns slow everyone down. Put the date on your calendar today. Call (813) 229-7100 if you are behind."
+  },
+  {
+   "seq": 79,
+   "date": "2027-03-08",
+   "topic": "Per-owner penalty",
+   "text": "The late-filing penalty for a partnership or S corporation is a set dollar amount, times the number of owners, times each month late, up to 12 months. It does not depend on tax owed. A five-owner S corp that is four months late is charged for twenty owner-months. Reasonable cause can excuse it."
+  },
+  {
+   "seq": 80,
+   "date": "2027-03-11",
+   "topic": "Form 7004",
+   "text": "Form 7004 gives a calendar-year partnership or S corporation an automatic six-month extension to file, to September 15, 2027. It has to be filed by March 15. It does not extend an owner's personal return, which is still due April 15 unless the owner requests an extension."
+  },
+  {
+   "seq": 81,
+   "date": "2027-03-15",
+   "topic": "Three April 15 items",
+   "text": "April 15, 2027 is a Thursday, and three things land that day: your 2026 return, your 2026 balance due, and the first 2027 estimated payment. Calculate all three now. Paying one does not cover the others."
+  },
+  {
+   "seq": 82,
+   "date": "2027-03-18",
+   "topic": "Owe more than expected",
+   "text": "If you owe more than you expected, file by April 15 anyway. Not filing costs 5% of the unpaid tax per month, up to 25%. Not paying costs 0.5% per month, up to 25%. Pay what you can with the return, then ask about a payment plan. Call (813) 229-7100 if the balance is large."
+  },
+  {
+   "seq": 83,
+   "date": "2027-03-22",
+   "topic": "Penalties do not stack",
+   "text": "In the first five months, the late-filing and late-payment penalties do not stack past 5% a month. The filing penalty is reduced by the payment penalty for the months both apply, so it is 4.5% plus 0.5%. After that, the payment penalty keeps running at 0.5% a month, up to 25%. File first."
+  },
+  {
+   "seq": 84,
+   "date": "2027-03-25",
+   "topic": "Installment agreement rate",
+   "text": "File on time, then set up an installment agreement, and the late-payment penalty drops from 0.5% to 0.25% a month while the plan is in effect. File late and you do not get the reduction. Interest keeps running either way. That is one more reason to file by April 15 even if you cannot pay."
+  },
+  {
+   "seq": 85,
+   "date": "2027-03-29",
+   "topic": "Short-term plan",
+   "text": "A short-term payment plan gives you up to 180 days to pay in full, with no setup fee. Interest and penalties keep running, but if you can pay within six months it is usually the cheapest way to buy time. You can set one up through the IRS online tools or by phone."
+  },
+  {
+   "seq": 86,
+   "date": "2027-04-01",
+   "topic": "Form 4868",
+   "text": "Form 4868 gives you until Friday, October 15, 2027 to file your 2026 return. It does not give you more time to pay. Interest runs from April 15 on anything unpaid. Estimate your tax, pay what you can with the extension, and request it by April 15."
+  },
+  {
+   "seq": 87,
+   "date": "2027-04-05",
+   "topic": "90 percent rule",
+   "text": "Paid at least 90% of your 2026 tax by April 15 through withholding, estimates or your extension payment, and the rest with your return? The IRS presumes reasonable cause for the late payment during the extension. Interest still applies to the unpaid part. Do the 90% math before April 15."
+  },
+  {
+   "seq": 88,
+   "date": "2027-04-08",
+   "topic": "Joint or separate",
+   "text": "Decide joint or separate before the due date. Once a joint return is filed, spouses cannot make separate returns after the time for filing has expired. If you are unsure, run the numbers both ways before you sign."
+  },
+  {
+   "seq": 89,
+   "date": "2027-04-12",
+   "topic": "Qualified amended return",
+   "text": "Found a mistake that means you owe more? An amended return filed before the IRS first contacts you about an exam is treated as tax shown on your return for the accuracy-related penalty. Interest still runs from the original due date. Call (813) 229-7100 before you wait for a notice."
+  },
+  {
+   "seq": 90,
+   "date": "2027-04-15",
+   "topic": "2023 refund deadline",
+   "text": "Never filed your 2023 return and you are owed a refund? The claim deadline is generally April 15, 2027. Withholding is treated as paid on April 15, 2024, and a refund can only reach back 3 years from the day you file. After that the refund is usually lost. Call (813) 229-7100 and get it filed."
   }
  ]
 }
