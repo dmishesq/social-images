@@ -1,0 +1,367 @@
+{
+ "timezone": "America/New_York",
+ "post_time": "12:15",
+ "account": "29112115401755467",
+ "posts": [
+  {
+   "seq": 1,
+   "date": "2026-10-29",
+   "topic": "Letter 12C basics",
+   "text": "If the IRS sends a Letter 12C asking for three items, send three. A partial response gets processed, found incomplete, and answered with another letter. That adds weeks or months to something that was usually easy to resolve."
+  },
+  {
+   "seq": 2,
+   "date": "2026-10-30",
+   "topic": "12C is not 1040-X",
+   "text": "A Letter 12C about your return is not a reason to amend. Do not file an amended return in response. Even if you disagree with what they want, answer the letter itself and explain the disagreement. Then mail it certified and allow 6 to 8 weeks."
+  },
+  {
+   "seq": 3,
+   "date": "2026-10-31",
+   "topic": "CP versus LTR",
+   "text": "CP means computer. LTR means a function or a person. A CP notice can often be resolved with a call, documents or a payment arrangement. An LTR letter usually means an active case, so the response should be more careful."
+  },
+  {
+   "seq": 4,
+   "date": "2026-11-01",
+   "topic": "Find the number",
+   "text": "Before you do anything with an IRS letter, find the number in the top right or bottom right corner of page one. CP14 and CP90 can arrive in the same kind of envelope. One gives you time. The other gives you exactly 30 days."
+  },
+  {
+   "seq": 5,
+   "date": "2026-11-02",
+   "topic": "Missed the 30 days",
+   "text": "Myth: if you miss the 30 days on a final levy notice, it is over. Reality: you can still ask for an equivalent hearing within one year. What you lose is the right to appeal to Tax Court. Same hearing, fewer options."
+  },
+  {
+   "seq": 6,
+   "date": "2026-11-03",
+   "topic": "A call is not a hearing",
+   "text": "Talking to the IRS about payment options does not replace a timely hearing request. Keep two tracks: the negotiation, and Form 12153 filed on time with a full copy and proof you sent it. Levy notice in hand? Call (813) 229-7100."
+  },
+  {
+   "seq": 7,
+   "date": "2026-11-04",
+   "topic": "The CP504 step",
+   "text": "On the IRS notice ladder, the CP504 is where it gets real. The IRS can levy your state tax refund at that point. For other assets it still has to send one more notice. Do not wait for the last rung."
+  },
+  {
+   "seq": 8,
+   "date": "2026-11-05",
+   "topic": "CP14 is cheap",
+   "text": "A CP14 is the IRS's first bill, and it is the cheapest point to fix a balance. Penalties and interest are lowest on the first notice and keep growing on unpaid balances. Every notice you ignore costs a little more."
+  },
+  {
+   "seq": 9,
+   "date": "2026-11-06",
+   "topic": "Refund verification",
+   "text": "If the IRS sends a 5071C, 4883C or 5747C, your refund is waiting on verification. Calling and writing will not release it. Only completing the verification does. Use the channel on your letter, and go to IRS.gov yourself."
+  },
+  {
+   "seq": 10,
+   "date": "2026-11-07",
+   "topic": "Unfiled return hold",
+   "text": "A CP63 means the IRS is holding your refund because it shows returns you have not filed. Ignore it and the refund is held six months while the IRS asks for the return. After that it may assess the tax itself. File your own first."
+  },
+  {
+   "seq": 11,
+   "date": "2026-11-08",
+   "topic": "Three-year refund clock",
+   "text": "A CP80 means the IRS is holding credits for a year with no return filed. You generally have three years from the original due date to claim them. After that, the credit usually cannot be refunded. An imperfect return filed on time can be amended later."
+  },
+  {
+   "seq": 12,
+   "date": "2026-11-09",
+   "topic": "Offset example",
+   "text": "You are owed a $3,000 refund. You owe $5,000 for an older year. The IRS applies the $3,000 and the old balance drops to $2,000, plus interest and penalties. That is a CP49. The offset is rarely wrong. The balance behind it sometimes is."
+  },
+  {
+   "seq": 13,
+   "date": "2026-11-10",
+   "topic": "Injured spouse",
+   "text": "If your joint refund was taken for your spouse's separate debt, you may be able to get your share back with Form 8379. You need to have income, withholding or a refundable credit in that refund. File within the refund claim period."
+  },
+  {
+   "seq": 14,
+   "date": "2026-11-11",
+   "topic": "CP523 reinstatement",
+   "text": "If you get a CP523 on a payment plan, a payment alone is not proof the agreement is active again. Ask what reinstates it and get written confirmation. A reinstatement fee or other requirements may apply."
+  },
+  {
+   "seq": 15,
+   "date": "2026-11-12",
+   "topic": "45-day cure",
+   "text": "If you missed an installment payment: The IRS must give at least 30 days' notice before terminating the plan, by certified mail. Cure the default within 45 days of the CP523 and it can usually be reinstated. A reinstatement fee applies."
+  },
+  {
+   "seq": 16,
+   "date": "2026-11-13",
+   "topic": "Skipped payments",
+   "text": "Nobody tells you this about IRS payment plans: more than two skipped payments in 12 months defaults the plan unless you send a new financial statement. If your income drops, ask to lower the payment before you miss one."
+  },
+  {
+   "seq": 17,
+   "date": "2026-11-14",
+   "topic": "180-day option",
+   "text": "The IRS has a payment option with no setup fee: up to 180 days to pay in full. The catch is that interest and the failure-to-pay penalty keep building until you pay. It fits if you know where the money comes from within six months."
+  },
+  {
+   "seq": 18,
+   "date": "2026-11-15",
+   "topic": "Over fifty thousand",
+   "text": "Owing the IRS more than $50,000 does not rule out a plan. You can still get a payment plan, but expect a deeper review. If you can pay the balance down to $50,000 or less, you may qualify for the simpler plan with no financial statement."
+  },
+  {
+   "seq": 19,
+   "date": "2026-11-16",
+   "topic": "Plan rejected",
+   "text": "If the IRS rejects your payment plan, it is not final. A second IRS employee reviews it first, and you can appeal with Form 9423. The deadline is 30 days from the date on the rejection letter, and it cannot be extended."
+  },
+  {
+   "seq": 20,
+   "date": "2026-11-17",
+   "topic": "Do not resubmit",
+   "text": "Do not send the IRS the same payment plan request twice. Repeat requests with no change can be treated as made to delay, and those carry no appeal rights. Fix the reason it was rejected, then resubmit."
+  },
+  {
+   "seq": 21,
+   "date": "2026-11-18",
+   "topic": "Partial pay plan",
+   "text": "A partial payment plan lets you pay what you can afford, and what remains can expire at the collection deadline. The trade is scrutiny. Expect a full financial statement and a check-in at least every two years."
+  },
+  {
+   "seq": 22,
+   "date": "2026-11-19",
+   "topic": "Offer or plan",
+   "text": "Offer in compromise or payment plan: the line is simple. Barring unusual circumstances, the IRS will not accept an offer if you can pay in full, as a lump sum or through installments. Start with that question, not with the ads."
+  },
+  {
+   "seq": 23,
+   "date": "2026-11-20",
+   "topic": "Returned vs rejected",
+   "text": "Offer in compromise rejected versus returned. Letter 686C is a rejection: you have 30 days to appeal with Form 13711. Letter 4112C is a return: no appeal, but it does not count as a rejection. Fix the problem and resubmit. (813) 229-7100"
+  },
+  {
+   "seq": 24,
+   "date": "2026-11-21",
+   "topic": "After an offer",
+   "text": "An accepted offer in compromise is a contract. You file and pay on time for five years, and under the standard terms the IRS keeps the refund for the year the offer is accepted. Plan for that refund before you spend it."
+  },
+  {
+   "seq": 25,
+   "date": "2026-11-22",
+   "topic": "Offer acceptance rate",
+   "text": "In fiscal year 2025, about 14.1 percent of offers in compromise were accepted. A denied offer also hands the IRS your full financial picture. Run your numbers before you apply, not after."
+  },
+  {
+   "seq": 26,
+   "date": "2026-11-23",
+   "topic": "Enrollment fees",
+   "text": "Red flags for a tax relief mill: a $500 to $5,000 fee to enroll you, a promise of pennies on the dollar up front, and pressure to sign the same day. The IRS programs are real. The enrollment fee is not."
+  },
+  {
+   "seq": 27,
+   "date": "2026-11-24",
+   "topic": "Passport threshold",
+   "text": "Can the IRS block your passport? Yes, above $66,000 for 2026, including penalties and interest. But owing that much is not enough by itself. The IRS must also have filed a lien or levied. A plan paid on time keeps you off the list."
+  },
+  {
+   "seq": 28,
+   "date": "2026-11-25",
+   "topic": "CP71 reminder",
+   "text": "A CP71 is the yearly reminder that a balance is still open, and it comes even when your account is in hardship status. If nothing about your finances has changed, you generally do not need to act. Ignore it long enough and a lien becomes possible."
+  },
+  {
+   "seq": 29,
+   "date": "2026-11-26",
+   "topic": "Levy needs warning",
+   "text": "Can the IRS levy without warning you first? Mostly no. Under Section 6330 it must send a final notice at least 30 days before levying, and without it a levy is generally invalid. Jeopardy cases are an exception and need management approval."
+  },
+  {
+   "seq": 30,
+   "date": "2026-11-27",
+   "topic": "Federal contractors",
+   "text": "Federal contractors get the usual process in reverse: the law lets the IRS levy first and offer the hearing after. File Form 12153 within 30 days of the letter date. Miss it and you lose the right to court review. (813) 229-7100"
+  },
+  {
+   "seq": 31,
+   "date": "2026-11-28",
+   "topic": "Third-party contacts",
+   "text": "The IRS generally has to tell you before it contacts your employer, bank or customers about your tax debt. That notice usually arrives at least 45 days before the first contact. Use the window to give the IRS what it needs yourself."
+  },
+  {
+   "seq": 32,
+   "date": "2026-11-29",
+   "topic": "Wrongful levy",
+   "text": "If the IRS levied money that belongs to someone else, such as a joint or business account, the owner can file a claim. The deadline is generally two years from the levy. Older guidance online still says nine months. That changed in 2017."
+  },
+  {
+   "seq": 33,
+   "date": "2026-11-30",
+   "topic": "Wage levy exempt amount",
+   "text": "When the IRS levies your wages, it leaves you an exempt amount based on filing status and dependents, using Publication 1494. Your employer has to comply with the levy, so the fix runs through the IRS, not HR. Wages levied? Call (813) 229-7100."
+  },
+  {
+   "seq": 34,
+   "date": "2026-12-01",
+   "topic": "Lien release or withdrawal",
+   "text": "A lien release leaves a record. A withdrawal does not. Credit bureaus stopped listing liens in 2018, but the public record remains. Withdrawal generally takes a direct debit plan, three on-time payments and all returns filed."
+  },
+  {
+   "seq": 35,
+   "date": "2026-12-02",
+   "topic": "Lien hearing and levy",
+   "text": "A lien hearing is not a levy hearing. After Letter 3172 you can request a Collection Due Process hearing on the lien, but unlike a levy hearing it does not automatically stop collection. If you got a levy notice too, ask about hearings on both."
+  },
+  {
+   "seq": 36,
+   "date": "2026-12-03",
+   "topic": "Selling with a lien",
+   "text": "Selling a home with an IRS lien: the deal is not dead. A Certificate of Discharge removes the lien from the one property you are selling, and the tax debt stays. Applications typically take 30 to 60 days. Start early. (813) 229-7100"
+  },
+  {
+   "seq": 37,
+   "date": "2026-12-04",
+   "topic": "Refinance with a lien",
+   "text": "Lenders will not fund a refinance behind a filed federal tax lien. A Certificate of Subordination puts the new loan ahead of the lien, using Form 14134 for a refinance. Plan on 45 to 75 days. The tax debt stays."
+  },
+  {
+   "seq": 38,
+   "date": "2026-12-05",
+   "topic": "Mortgage and IRS plan",
+   "text": "Buying a home while on an IRS payment plan: underwriters add the monthly payment to your debt-to-income ratio, like a car loan. On a tight file, $500 a month can sink it. Ask about the IRS at pre-qualification, not at contract."
+  },
+  {
+   "seq": 39,
+   "date": "2026-12-06",
+   "topic": "Estate tax lien",
+   "text": "Death does not cancel a tax lien. The estate tax lien arises automatically on larger taxable estates, with no filing and no notice, and lasts 10 years from the date of death. Property handed to heirs stays encumbered."
+  },
+  {
+   "seq": 40,
+   "date": "2026-12-07",
+   "topic": "Home sale exclusion",
+   "text": "Selling your home: single filers can exclude up to $250,000 of gain and joint filers up to $500,000, if you owned and lived there two of the last five years. Rental time shrinks it. Rented five, lived there three: about 62.5% is taxable."
+  },
+  {
+   "seq": 41,
+   "date": "2026-12-08",
+   "topic": "Freeze, not alert",
+   "text": "If someone filed a tax return in your name, treat it as identity theft first. The same data can open credit cards or loans. Choose a credit freeze, not just a fraud alert, and notify the IRS, the FTC, all three bureaus and your bank."
+  },
+  {
+   "seq": 42,
+   "date": "2026-12-09",
+   "topic": "Return under review",
+   "text": "A CP05 or Letter 4464C means your return was flagged, not audited. Wait the 60 days it asks for. Do not file a second return, call every week or amend without a real error. Each one slows things down."
+  },
+  {
+   "seq": 43,
+   "date": "2026-12-10",
+   "topic": "Letter 566",
+   "text": "Letter 566 means your return was selected, not that it is wrong. Send copies, never originals, and put your name and Social Security number on every page. Stay silent and the IRS disallows the items."
+  },
+  {
+   "seq": 44,
+   "date": "2026-12-11",
+   "topic": "Letter 2205-A",
+   "text": "Letter 2205-A means your return is going to a field audit, and IRS procedures allow 14 calendar days to respond, mailing time included. Ignoring it does not stop the audit. It only takes away your say. Audit letter in hand? Call (813) 229-7100."
+  },
+  {
+   "seq": 45,
+   "date": "2026-12-12",
+   "topic": "Letter 907",
+   "text": "Letter 907 asks you to sign Form 872, extending the IRS's three-year deadline to assess. The IRS cannot extend it alone. You can refuse, or limit it to certain issues or a certain period. Know that before signing."
+  },
+  {
+   "seq": 46,
+   "date": "2026-12-13",
+   "topic": "Round numbers",
+   "text": "Your return is a story, and it has to add up. Most audits start because something does not make sense. Round numbers look like guesses. Use real numbers, keep digital receipts and mileage logs, and report all income."
+  },
+  {
+   "seq": 47,
+   "date": "2026-12-14",
+   "topic": "Bank statement proof",
+   "text": "Nobody tells you this about audits: a bank statement is not proof of a deduction. A line that says Home Depot does not show what you bought. You need the receipt, ideally with the job name. Mixed personal and business accounts make it worse."
+  },
+  {
+   "seq": 48,
+   "date": "2026-12-15",
+   "topic": "Oversharing in audits",
+   "text": "Most audits do not blow up because someone cheated. They blow up because of how the taxpayer responds early. Volunteering timelines and backstory hands the auditor new angles. Answer what was asked, support it, and stop."
+  },
+  {
+   "seq": 49,
+   "date": "2026-12-16",
+   "topic": "The 30-day letter",
+   "text": "An audit 30-day letter gives you three choices: agree, agree with part, or disagree. Over $25,000 in tax and penalties for a period needs a formal written protest. At $25,000 or less, a small case request is usually enough. Pick on purpose."
+  },
+  {
+   "seq": 50,
+   "date": "2026-12-17",
+   "topic": "EITC audit",
+   "text": "If the IRS audits your EITC, documents decide it. Each child must meet the relationship, age and residency tests, and must live with you more than half the year. Reckless disregard brings a two-year ban, so send everything asked."
+  },
+  {
+   "seq": 51,
+   "date": "2026-12-18",
+   "topic": "CP79 versus CP79A",
+   "text": "CP79 and CP79A look similar but mean different things. CP79 is a recertification requirement, not a ban. CP79A is a two-year ban. Know which notice you hold before you decide what to do about it."
+  },
+  {
+   "seq": 52,
+   "date": "2026-12-19",
+   "topic": "Attorney or CPA",
+   "text": "CPAs make sure the numbers are right. Tax attorneys argue positions in the gray areas. Both matter, at different moments. One difference: attorney communications are confidential even in a criminal tax matter, and accountant communications get far narrower protection."
+  },
+  {
+   "seq": 53,
+   "date": "2026-12-20",
+   "topic": "Spouse owes IRS",
+   "text": "Does your spouse's IRS debt become yours? Marriage alone does not transfer it. Your risk comes from how finances connect: a joint return, a shared checking account, jointly titled property. Keep things separate on paper before the IRS is watching."
+  },
+  {
+   "seq": 54,
+   "date": "2026-12-21",
+   "topic": "April is too late",
+   "text": "Nothing you do in April changes what you owe for the year that just ended. Entity elections, retirement contribution cutoffs, and the timing of income and expenses can close quietly. Tax planning is deciding while you still have choices."
+  },
+  {
+   "seq": 55,
+   "date": "2026-12-22",
+   "topic": "S corp deadline",
+   "text": "Thinking about an S corp election? Form 2553 has a deadline, and missing it normally pushes the election to the following year. Late relief is sometimes available but not automatic. Then comes the real question: what is a reasonable salary?"
+  },
+  {
+   "seq": 56,
+   "date": "2026-12-23",
+   "topic": "Augusta rule",
+   "text": "Rent your home to your own business for fewer than 15 days a year and you do not report that rent. The payor must be an S corp, C corp or partnership. The rule is real. It only works with signed agreements, minutes and a rate worksheet."
+  },
+  {
+   "seq": 57,
+   "date": "2026-12-24",
+   "topic": "Solo 401(k) deadline",
+   "text": "A solo 401(k) deferral has to be elected before year end for sole proprietors and partners. You cannot defer for a year after it is over. A SEP-IRA can be set up and funded as late as the return due date."
+  },
+  {
+   "seq": 58,
+   "date": "2026-12-26",
+   "topic": "1031 clocks",
+   "text": "A 1031 exchange has two clocks that start at closing: 45 days to identify replacement property in writing, and 180 days to close. Weekends and failed deals do not move them. Set it up before you close, not after."
+  },
+  {
+   "seq": 59,
+   "date": "2026-12-27",
+   "topic": "Crypto reporting",
+   "text": "Did you trade crypto last year? Brokers now report digital asset sales to the IRS on Form 1099-DA, and the IRS can compare that data to your return automatically. Missing records can often be rebuilt from exchange exports and bank statements."
+  },
+  {
+   "seq": 60,
+   "date": "2026-12-28",
+   "topic": "Backup withholding",
+   "text": "If your business gets a CP2100, the IRS is telling you which payees may need a B notice. Backup withholding is 24%, reported on Form 945. If you were required to withhold and did not, the business can owe the amount."
+  }
+ ]
+}
